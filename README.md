@@ -1,4 +1,4 @@
-# Run Buddy INc.
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://shellienguyen.github.io/run-buddy/
 
 ## Contribution
 Made with by ❤️ Shellie Nguyen
+
+### &copy;2019 Run Buddy, Inc.
