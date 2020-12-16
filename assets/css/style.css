@@ -276,6 +276,22 @@ section {
 /**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**/
 
 /****************************************************/
+/* Our Service Plans styles start */
+.service-grid-container {
+   display: grid;
+}
+
+.service-grid-item {
+   width: 200px;
+   height: 200px;
+   background-color: orange;
+   border: solid;
+   color: black;
+}
+/* Our Service Plans styles end */
+/**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**/
+
+/****************************************************/
 /* Reach Out styles start */
 .contact {
    background: #024e76;
