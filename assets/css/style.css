@@ -311,9 +311,11 @@ section {
    grid-column: 2 /span 1;
 }
 
+/*
 .service-grid-item.premium {
    grid-column: 3 /span 1;
 }
+*/
 
 .service-grid-item.both {
    grid-column: 2 / span 2;
